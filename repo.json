@@ -1,0 +1,23 @@
+[
+  {
+    "Author": "grimfoo",
+    "Name": "Low HP Tab",
+    "Punchline": "Tab targets the lowest-HP enemy in Crystalline Conflict.",
+    "Description": "When you press Tab in duty PvP, replaces normal tab targeting with the lowest-HP targetable enemy player. Uses HP percentage by default.",
+    "InternalName": "LowHpTab",
+    "AssemblyVersion": "1.0.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "pvp",
+      "cc",
+      "targeting",
+      "tab"
+    ],
+    "RepoUrl": "https://github.com/grimfoo/LowHpTabXIV",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/grimfoo/LowHpTabXIV/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/grimfoo/LowHpTabXIV/main/latest.zip"
+  }
+]
