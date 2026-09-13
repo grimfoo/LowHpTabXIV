@@ -2,10 +2,10 @@
   {
     "Author": "grimfoo",
     "Name": "Low HP Tab",
-    "Punchline": "Tab targets the lowest-HP enemy in Crystalline Conflict.",
-    "Description": "When you press Tab in duty PvP, replaces normal tab targeting with the lowest-HP targetable enemy player. Uses HP percentage by default.",
+    "Punchline": "Tab cycles visible enemies from lowest to highest HP.",
+    "Description": "In duty PvP, Tab cycles targetable on-screen enemy players sorted from lowest to highest HP percentage.",
     "InternalName": "LowHpTab",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
